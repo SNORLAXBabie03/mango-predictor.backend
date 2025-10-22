@@ -7,7 +7,7 @@ click
 colorama
 Flask
 flask-cors
-flatbuffer
+flatbuffers
 h11
 idna
 itsdangerous
